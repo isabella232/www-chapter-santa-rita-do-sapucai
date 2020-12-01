@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Breno Gontijo Tavares](mailto:breno.tavares@owasp.org)
+* [Francisco de Assis Silva do Carmo](mailto:francisco.carmo@owasp.org)
