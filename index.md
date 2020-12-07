@@ -7,7 +7,7 @@ region: South America
 
 ---
 
-![enter image description here](/www-chapter-santa-rita-do-sapucai/blob/main/assets/images/Owasp.png)
+![enter image description here](/assets/images/Owasp.png)
 
 Welcome to the OWASP  [Santa Rita do Sapucaí](https://pt.wikipedia.org/wiki/Santa_Rita_do_Sapuca%C3%AD)  Chapter home page.
 
