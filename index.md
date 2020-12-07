@@ -2,7 +2,6 @@
 
 layout: col-sidebar
 title: OWASP Santa Rita do Sapucai
-tags: example-tag
 region: South America
 
 ---
