@@ -10,7 +10,7 @@ region: South America
 
 Welcome to the OWASP  [Santa Rita do Sapucaí](https://pt.wikipedia.org/wiki/Santa_Rita_do_Sapuca%C3%AD)  Chapter home page.
 
-The OWASP Santa Rita do Sapucaí chapter is hosted at the [Inatel (Instituto Nacional de Telecomunicações)](https://pt.wikipedia.org/wiki/Instituto_Nacional_de_Telecomunica%C3%A7%C3%B5es).
+The OWASP Santa Rita do Sapucaí chapter is hosted at the [Instituto Nacional de Telecomunicações (Inatel)](https://pt.wikipedia.org/wiki/Instituto_Nacional_de_Telecomunica%C3%A7%C3%B5es).
 We will share the schedule of our events on this page in January 2021, where we will offer free lectures and workshops with great security-related experts and great networking.
 
 ## Participation
