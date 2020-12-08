@@ -17,8 +17,6 @@ We will share the schedule of our events on this page in January 2021, where we 
 
 The Open Web Application Security Project (OWASP) is a not-for-profit, worldwide organization focused on improving the security of application software. Our mission is to make application security visible, so that people and organizations can make informed decisions about true application security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
 
-Become an OWASP Member TODAY [owasp.org/membership](https://owasp.org/membership) Support your LA Chapter: only $50 for the entire year! ($20 if you’re a student)
-
 ## Local News
 - Inatel campus.
 	- Av. João de Camargo, 510, Centro.
