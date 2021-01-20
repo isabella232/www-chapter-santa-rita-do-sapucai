@@ -2,6 +2,6 @@
 * Provide Group Information
 
 ### Social Links
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/santa-rita-do-sapucai-owasp-meetup-group/)
 
 
