@@ -19,8 +19,10 @@ The Open Web Application Security Project (OWASP) is a not-for-profit, worldwide
 
 ## Local News
 
-Minicurso gratuito com certificado
+Minicurso gratuito com certificado.
+
 Segurança da Informação e Cyber Segurança: Vulnerabilidades nas Empresas e Instituições
+
 26 de Março - das 08h00 às 10h00
 
 Link de acesso:
