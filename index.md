@@ -25,8 +25,7 @@ Segurança da Informação e Cyber Segurança: Vulnerabilidades nas Empresas e I
 
 26 de Março - das 08h00 às 10h00
 
-Link de acesso:
-https://www.youtube.com/watch?v=lQ6SiBP2NX0
+[CLIQUE AQUI para participar](https://www.youtube.com/watch?v=lQ6SiBP2NX0)
 
 
 ## Leadership
